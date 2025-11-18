@@ -28,7 +28,7 @@ typedef struct list {
  *  \param fp_sensor_data file pointer to the binary data file
  */
 void datamgr_parse_sensor_files(FILE *fp_sensor_map, FILE *fp_sensor_data) {
-    file = fopen(f, "r");
+
 }
 
 /**
